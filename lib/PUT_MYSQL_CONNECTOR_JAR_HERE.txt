@@ -1,0 +1,4 @@
+Place the `mysql-connector-java-8.x.x.jar` file here before compiling.
+
+Download from: https://dev.mysql.com/downloads/connector/j/
+(Select Platform Independent → download the .zip → extract the .jar)

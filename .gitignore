@@ -1,0 +1,24 @@
+# Compiled class files
+out/
+*.class
+
+# IDE project files
+.idea/
+*.iml
+.vscode/
+*.eclipse
+*.classpath
+*.project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# JAR files in lib/ (user must add their own)
+lib/*.jar
+
+# Build artifacts
+*.jar
